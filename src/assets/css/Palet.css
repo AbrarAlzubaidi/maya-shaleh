@@ -1,0 +1,39 @@
+.palet{
+    padding-bottom: 40px;
+    background-image: linear-gradient(to right, black, #a8b9c8, #BF8B67,   #1b63a3, white);
+
+}
+
+.heading{
+    text-align: center;
+    color:#191a1e
+}
+.colors{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 0;
+    padding: 10px 0;
+}
+.color1, .color2, .color3, .color4, .color5{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    /* border: 1px solid #191a1e; */
+    border-radius: 50% ;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.color1{
+    background-color: white;
+}
+.color2{
+    background-color: #1b63a3;
+}
+.color3{
+    background-color: #BF8B67;
+}
+.color4{
+    background-color: #a8b9c8;
+}
+.color5{
+    background-color: black;
+}
