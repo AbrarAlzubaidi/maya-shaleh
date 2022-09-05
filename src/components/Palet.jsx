@@ -3,10 +3,10 @@ import "../assets/css/Palet.css"
 export default function Palet(){
     return(
 
-        <section className="palet">
+        <section id="palette">
           <div className="heading">
             <h2>
-                Palte Colors Used In This Project
+            Colors Palette That Used In This Project
             </h2>
           </div>
           <div className="colors">

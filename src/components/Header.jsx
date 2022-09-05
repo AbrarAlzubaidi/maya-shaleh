@@ -1,5 +1,5 @@
 import React from "react";
-                                                                                                                                                                                                                                                import logo from "../assets/images/Free_Sample_By_Wix.jpeg"
+import logo from "../assets/images/logo.png"
 import '../assets/css/Header.css'
 export default function Header(){
     return(
@@ -8,8 +8,8 @@ export default function Header(){
                 <a href="./"><img src={logo}/></a>
             </div>
             <nav className="links">
-                <a href="" activeClassName='is-active'>About</a>
-                <a href="">Contact</a>
+                <a href="#palette">Palette</a>
+                <a href="#features">Features</a>
                 <a href="">See</a>
                 <a href="">some1</a>
             </nav>

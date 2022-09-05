@@ -9,7 +9,7 @@ export default function Slider(){
           <h1>Buy A New Type 
             Of Luxurious and Modern 
             Villa </h1>
-          <p>Turn your holiday with M-S to a unforgettable and luxurious holiday
+          <p>Turn your holiday with Maya Groups to a unforgettable and luxurious holiday
           </p>
         </div>
         </div>
