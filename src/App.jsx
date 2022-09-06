@@ -3,8 +3,9 @@ import Slider from './components/Slider'
 import Palet from './components/Palet'
 import Cards from './components/Cards'
 import Footer from './components/Footer'
+import About from './components/About'
 import data from "./data"
-import './assets/css/App.css'
+import './App.css'
 
 function App() {
   let cards_data = data.map(item=>{
@@ -19,6 +20,7 @@ function App() {
     <div className="App">
       <Header/>
       <Slider/>
+      <About/>
       <Palet/>
       <h1 id='features'>Included Features</h1>
       <section className='card-section'>

@@ -20,7 +20,7 @@ export default [
     {
         id:4,
         title: " Cone Relaxing Bed",
-        description: "a nice cone bed to make you relax and enjoy the view of the sea",
+        description: "A nice cone bed to make you relax and enjoy the view of the sea",
         image: "bed.jpg"
     },
     {
@@ -31,7 +31,7 @@ export default [
     },
     {
         id:6,
-        title: " Woman statue",
+        title: " Woman Statue",
         description: "A woman statue that gather between the Ancient and the Modern culture.Also, woman in the acient culture represent strength, creation and rebirth",
         image: "statue.jpg"
     }

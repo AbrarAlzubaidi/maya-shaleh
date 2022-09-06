@@ -1,0 +1,30 @@
+#about{
+    padding: 20px 0 20px 20px;
+    background-color: #597036;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px;
+    align-items: center;
+}
+.container img{
+    width: 500px;
+    height: 500px;
+    align-self: flex-start;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 10px 10px 6px;
+}
+.text{
+    display: grid;
+    grid-template-rows: auto auto;
+    gap: 20px;
+    color: #e7d48b;
+}
+.text h1{
+    font-size: 35px;
+}
+.text p{
+    color: aliceblue;
+}

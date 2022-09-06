@@ -5,11 +5,11 @@ export default function Slider(){
     return(
         <div className="hero-slider">
         <div className="hero-item">
-          <p className="heading-top animate__animated animate__bounce">WELCOME</p>
+          <p className="heading-top">WELCOME</p>
           <h1>Buy A New Type 
             Of Luxurious and Modern 
             Villa </h1>
-          <p>Turn your holiday with Maya Groups to a unforgettable and luxurious holiday
+          <p>Turn your holiday with Maya-Group to a unforgettable and luxurious holiday
           </p>
         </div>
         </div>
