@@ -3,11 +3,11 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
 import { faFacebookMessenger, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import "../assets/css/Footer.css";
-import logo from "../assets/images/logo.png"
+import logo from "/images/logo.png"
 
 export default function Footer(){
     return(
-        <footer>
+        <footer id="footer">
             <div className="footer-logo">
                 <a href="#"><img src={logo}/></a>
                 <div className="social">

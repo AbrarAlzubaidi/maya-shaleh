@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/images/logo.png"
+import logo from "/images/logo.png"
 import '../assets/css/Header.css'
 export default function Header(){
     return(
@@ -10,8 +10,7 @@ export default function Header(){
             <nav className="links">
                 <a href="#palette">Palette</a>
                 <a href="#features">Features</a>
-                <a href="">See</a>
-                <a href="">some1</a>
+                <a href="#footer">Contact</a>
             </nav>
         </header>
     )

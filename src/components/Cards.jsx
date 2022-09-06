@@ -1,9 +1,9 @@
 import React from "react";
 import "../assets/css/Cards.css";
-
 export default function Cards(props){
-    // console.log(props.item.title)
-    let image_path = "../src/assets/images/"+props.item.image;
+    let image_path = `/images/${props.item.image}`;
+    console.log(typeof image_path);
+    console.log(image_path);
     return(
         <div className="features">
             <div className="card">
