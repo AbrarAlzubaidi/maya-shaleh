@@ -8,7 +8,7 @@ export default [
     {
         id:2,
         title: "Carnation Flower",
-        description: "Type of flowers that distripute around the green yards",
+        description: "Type of flowers that grows in Spain and distriputed around the green yards",
         image: "flower.jpg"
     },
     {

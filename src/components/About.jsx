@@ -4,12 +4,19 @@ export default function About(){
     return(
         <section id="about">
             <div className="container">
-                <img src="/images/pexels-rajesh-chetty-2956511.jpg"/>
+                <img src="/images/canary-island.jpg"/>
                 <div className="text">
                     <h1>What This Project Offer?</h1>
-                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
+                    <p>A wonderfull experience that inspired by olive tree and Spain, because it is the number one country exports olives. 
+                        This project will be implemented on Canary Island in the Atlantic Ocean.
+                        The villa expresses the Spanish character in general and olives in particular. <br/>
+                        The villa has so much features that will amaze it's vistors youngs, youths and adults.
+                        you can live and create your adventure in Olivo Villa.
+                        after you arrive (by a Plane) to the villa you will land in a custom area that prepared will to serve you,
+                        after that you can relax in some of our relaxing areas and have a massage with our professional staff.
+                        Or you can enjoy the other entertainment facilities, like the outdoor pool, insider pool, jaquzi or just enjoying the beautiful views of the Villa.
+                        In addition you will be amazed about the view of the sunsite eithre the sunrise in our coast inside the cone beds.<br/><br/><br/>
+                        An Unforgettable Journey Wait You ..
                     </p>
                 </div>
             </div>
