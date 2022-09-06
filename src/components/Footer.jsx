@@ -23,7 +23,8 @@ export default function Footer(){
             </div>
             <div className="offer">
                 <u><h3>what we have</h3></u>
-                <a href="#palette"><p> <FontAwesomeIcon icon={faArrowRight} className="icon"/> palette</p></a>
+                <a href="#about"><p> <FontAwesomeIcon icon={faArrowRight} className="icon"/> About</p></a>
+                <a href="#palette"><p> <FontAwesomeIcon icon={faArrowRight} className="icon"/> Palette</p></a>
                 <a href="#features"><p> <FontAwesomeIcon icon={faArrowRight} className="icon" /> Features</p></a>
             </div>
         </footer>

@@ -8,6 +8,7 @@ export default function Header(){
                 <a href="./"><img src={logo}/></a>
             </div>
             <nav className="links">
+                <a href="#about">About</a>
                 <a href="#palette">Palette</a>
                 <a href="#features">Features</a>
                 <a href="#footer">Contact</a>
